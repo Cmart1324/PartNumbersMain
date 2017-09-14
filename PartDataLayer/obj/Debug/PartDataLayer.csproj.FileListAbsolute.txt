@@ -1,0 +1,20 @@
+Q:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartDataLayer\bin\Debug\PartDataLayer.dll
+Q:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartDataLayer\bin\Debug\PartDataLayer.pdb
+Q:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartDataLayer\obj\Debug\PartDataLayer.csprojResolveAssemblyReference.cache
+Q:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartDataLayer\obj\Debug\PartDataLayer.dll
+Q:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartDataLayer\obj\Debug\PartDataLayer.pdb
+C:\Users\codys\Desktop\PartNumbers\PartDataLayer\bin\Debug\PartDataLayer.dll
+C:\Users\codys\Desktop\PartNumbers\PartDataLayer\bin\Debug\PartDataLayer.pdb
+C:\Users\codys\Desktop\PartNumbers\PartDataLayer\obj\Debug\PartDataLayer.csprojResolveAssemblyReference.cache
+C:\Users\codys\Desktop\PartNumbers\PartDataLayer\obj\Debug\PartDataLayer.dll
+C:\Users\codys\Desktop\PartNumbers\PartDataLayer\obj\Debug\PartDataLayer.pdb
+E:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartDataLayer\bin\Debug\PartDataLayer.dll
+E:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartDataLayer\bin\Debug\PartDataLayer.pdb
+E:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartDataLayer\obj\Debug\PartDataLayer.csprojResolveAssemblyReference.cache
+E:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartDataLayer\obj\Debug\PartDataLayer.dll
+E:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartDataLayer\obj\Debug\PartDataLayer.pdb
+D:\Spring 2017\CIS 397 C# 2\projects\PartNumbersMain\PartDataLayer\bin\Debug\PartDataLayer.dll
+D:\Spring 2017\CIS 397 C# 2\projects\PartNumbersMain\PartDataLayer\bin\Debug\PartDataLayer.pdb
+D:\Spring 2017\CIS 397 C# 2\projects\PartNumbersMain\PartDataLayer\obj\Debug\PartDataLayer.csprojResolveAssemblyReference.cache
+D:\Spring 2017\CIS 397 C# 2\projects\PartNumbersMain\PartDataLayer\obj\Debug\PartDataLayer.dll
+D:\Spring 2017\CIS 397 C# 2\projects\PartNumbersMain\PartDataLayer\obj\Debug\PartDataLayer.pdb

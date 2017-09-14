@@ -1,0 +1,28 @@
+Q:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartLogic\obj\Debug\PartLogic.csprojResolveAssemblyReference.cache
+Q:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartLogic\bin\Debug\PartLogic.dll
+Q:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartLogic\bin\Debug\PartLogic.pdb
+Q:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartLogic\bin\Debug\PartDataLayer.dll
+Q:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartLogic\bin\Debug\PartDataLayer.pdb
+Q:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartLogic\obj\Debug\PartLogic.dll
+Q:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartLogic\obj\Debug\PartLogic.pdb
+C:\Users\codys\Desktop\PartNumbers\PartLogic\bin\Debug\PartLogic.dll
+C:\Users\codys\Desktop\PartNumbers\PartLogic\bin\Debug\PartLogic.pdb
+C:\Users\codys\Desktop\PartNumbers\PartLogic\bin\Debug\PartDataLayer.dll
+C:\Users\codys\Desktop\PartNumbers\PartLogic\bin\Debug\PartDataLayer.pdb
+C:\Users\codys\Desktop\PartNumbers\PartLogic\obj\Debug\PartLogic.csprojResolveAssemblyReference.cache
+C:\Users\codys\Desktop\PartNumbers\PartLogic\obj\Debug\PartLogic.dll
+C:\Users\codys\Desktop\PartNumbers\PartLogic\obj\Debug\PartLogic.pdb
+E:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartLogic\obj\Debug\PartLogic.csprojResolveAssemblyReference.cache
+E:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartLogic\obj\Debug\PartLogic.dll
+E:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartLogic\obj\Debug\PartLogic.pdb
+E:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartLogic\bin\Debug\PartLogic.dll
+E:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartLogic\bin\Debug\PartLogic.pdb
+E:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartLogic\bin\Debug\PartDataLayer.dll
+E:\Spring 2017\CIS 397 C# 2\Fun\PartNumbers\PartLogic\bin\Debug\PartDataLayer.pdb
+D:\Spring 2017\CIS 397 C# 2\projects\PartNumbersMain\PartLogic\obj\Debug\PartLogic.csprojResolveAssemblyReference.cache
+D:\Spring 2017\CIS 397 C# 2\projects\PartNumbersMain\PartLogic\obj\Debug\PartLogic.dll
+D:\Spring 2017\CIS 397 C# 2\projects\PartNumbersMain\PartLogic\obj\Debug\PartLogic.pdb
+D:\Spring 2017\CIS 397 C# 2\projects\PartNumbersMain\PartLogic\bin\Debug\PartLogic.dll
+D:\Spring 2017\CIS 397 C# 2\projects\PartNumbersMain\PartLogic\bin\Debug\PartLogic.pdb
+D:\Spring 2017\CIS 397 C# 2\projects\PartNumbersMain\PartLogic\bin\Debug\PartDataLayer.dll
+D:\Spring 2017\CIS 397 C# 2\projects\PartNumbersMain\PartLogic\bin\Debug\PartDataLayer.pdb
